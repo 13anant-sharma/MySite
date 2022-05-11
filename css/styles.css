@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+hr {
+  background-color: #F5F5F5;
+  border: 0;
+  border-top: 6px dotted grey;
+  width: 50px;
+  margin: 40px auto 60px auto;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  color: #364F6B;
+  font-size: 115px;
+  line-height: 2;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #364F6B;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #3FC1C9;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.first-skill {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-skill {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.designer {
+  padding-bottom: 40px;
+}
+
+.top-container {
+  background-color: #EEEEEE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bgvector {
+  height: 300px;
+  position: relative;
+  top: 4px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3FC1C9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 10px;
+}
+
+.btn:hover {
+  background: #47d4d9;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #EEEEEE;
+  margin-top: 60px;
+  line-height: 2;
+  padding: 40px 0 40px 0;
+}
+
+.copyright {
+  font-size: 12px;
+  position: relative;
+  top: 20px;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.cloud1 {
+  height: 100px;
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+
+.cloud2 {
+  height: 140px;
+  position: absolute;
+  right: 80%;
+  top: 200px;
+}
+
+.cloud3 {
+  height: 150px;
+  position: absolute;
+  top: 300px;
+}
+
+.footer-link {
+  margin: auto 20px auto 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #FC5185;
+}
+.footer-link:hover{
+color: #DE0446;
+}
+
+.middle-container {
+  margin: 50px auto 50px auto;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.profile {
+  margin-bottom: 70px;
+}
